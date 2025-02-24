@@ -1,1 +1,1 @@
-This is just a test for now.
+Har lavet opgave 1 og 2. Skriver den snart ind på en pæn måde.ew
