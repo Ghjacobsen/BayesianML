@@ -12,6 +12,4 @@ dependencies = [
 ]
 
 [dependency-groups]
-dev = [
-    "notebook-as-pdf>=0.5.0",
-]
+dev = []
