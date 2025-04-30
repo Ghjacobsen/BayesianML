@@ -1,5 +1,5 @@
-Readme til Assignment 2
+Readme til Assignment 3
 
-Jeg har lavet brødarbejdet til opgave 1. Jeg ville gerne have koden var jax i stedet men løb i problemer med noget matrice struktur. plotsne er heller ikke sådan helt op at spille Superliga endnu.
+Jeg sidder lidt fast i 2.3. Får ikke helt den function ud jeg forventer fra 'posterior mean of the weights w0,w1, v'.
 
-Mangler også 1.4
+Jeg synes mine udledninger i 2.1 virker ok, men kan simpelthen ikke finde ud af hvad der går galt i MetHast algoritmen 2.2, 2.3.
