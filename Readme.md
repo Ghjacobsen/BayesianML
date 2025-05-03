@@ -1,5 +1,13 @@
 Readme til Assignment 3
 
-Jeg sidder lidt fast i 2.3. Får ikke helt den function ud jeg forventer fra 'posterior mean of the weights w0,w1, v'.
+Part 1
+mangler: 
+1.3 (Metropolis Hasting),
+1.4 (plot trace, convergence),
+1.5 (posterior mean),
+1.6 (credibility interval)
 
-Jeg synes mine udledninger i 2.1 virker ok, men kan simpelthen ikke finde ud af hvad der går galt i MetHast algoritmen 2.2, 2.3.
+
+
+Part 2 er done.
+
